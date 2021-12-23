@@ -65,7 +65,7 @@
 		</td>
 		<td align="center" width="96">
 			<a href="#ardihikaru" >
-				<img src="./img/mongodb-original.svg" width="48" height="48" alt="MongoDB" />
+				<img src="https://github.com/bayudwiyansatria/bayudwiyansatria/blob/master/img/mongodb-original.svg" width="48" height="48" alt="MongoDB" />
 			</a>
 			<br>MongoDB
 		</td>
