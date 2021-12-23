@@ -51,42 +51,6 @@
 			</a>
 			<br>Python
 		</td>
-		<td align="center" width="96"> 
-			<a href="#ardihikaru" >
-				<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/docker-icon.svg" width="48" height="48" alt="Docker" />
-			</a>
-			<br>Docker
-		</td>
-		<td align="center" width="96">
-			<a href="#ardihikaru" >
-				<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/kubernetes.svg" width="48" height="48" alt="Kubernetes" />
-			</a>
-			<br>Kubernetes
-		</td>
-	</tr>
-	<!-- 2nd Row -->
-	<tr>
-		<td align="center" width="96">
-			<a href="#ardihikaru" >
-				<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/elasticsearch.svg" width="48" height="48" alt="Elastic Search" />
-			</a>
-			<br>Elasticsearch
-		</td>
-		<td align="center" width="96">
-			<a href="#ardihikaru" >
-				<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/logstash.svg" width="48" height="48" alt="Logstash" />
-			</a>
-			<br>Logstash
-		</td>
-		<td align="center" width="96">
-			<a href="#ardihikaru" >
-				<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/kibana.svg" width="48" height="48" alt="Kibana" />
-			</a>
-			<br>Kibana
-		</td>
-	</tr>
-	<!-- 3rd Row -->
-	<tr>
 		<td align="center"  width="96">
 			<a href="#ardihikaru">
 				<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/mysql.svg" width="48" height="48" alt="MySQL" />
@@ -104,6 +68,39 @@
 				<img src="./img/mongodb-original.svg" width="48" height="48" alt="MongoDB" />
 			</a>
 			<br>MongoDB
+		</td>
+	</tr>
+	<!-- 2nd Row -->
+	<tr>
+		<td align="center" width="96"> 
+			<a href="#ardihikaru" >
+				<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/docker-icon.svg" width="48" height="48" alt="Docker" />
+			</a>
+			<br>Docker
+		</td>
+		<td align="center" width="96">
+			<a href="#ardihikaru" >
+				<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/kubernetes.svg" width="48" height="48" alt="Kubernetes" />
+			</a>
+			<br>Kubernetes
+		</td>
+		<td align="center" width="96">
+			<a href="#ardihikaru" >
+				<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/elasticsearch.svg" width="48" height="48" alt="Elastic Search" />
+			</a>
+			<br>Elasticsearch
+		</td>
+		<td align="center" width="96">
+			<a href="#ardihikaru" >
+				<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/logstash.svg" width="48" height="48" alt="Logstash" />
+			</a>
+			<br>Logstash
+		</td>
+		<td align="center" width="96">
+			<a href="#ardihikaru" >
+				<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/kibana.svg" width="48" height="48" alt="Kibana" />
+			</a>
+			<br>Kibana
 		</td>
 	</tr>
 </table>
