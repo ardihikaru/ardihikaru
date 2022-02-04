@@ -11,7 +11,7 @@
 <!-- Badged -->
 <p align="center">
 	<!-- Visitor -->
-	<a href="https://github.com/bayudwiyansatria/shields-io-visitor-counter">
+	<a href="https://github.com/ardihikaru">
 		<img src="https://shields-io-visitor-counter.herokuapp.com/badge?page=ardihikaru.ardihikaru&style=for-the-badge">
 	<a>
 	<!-- Twitter Stats -->
