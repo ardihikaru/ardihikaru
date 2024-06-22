@@ -14,6 +14,7 @@
 	<a href="https://github.com/ardihikaru">
 		<img src="https://visitor-badge.laobi.icu/badge?page_id=ardihikaru.ardihikaru&style=for-the-badge">
 	<a>
+	<br>
 	<!-- Twitter Stats -->
 	<a href="https://twitter.com/ardikucing">
 		<img 
