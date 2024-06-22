@@ -117,7 +117,7 @@
     <a href="https://github.com/ardihikaru/github-readme-streak-stats" title="Go to Source">
       <img align="left" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=ardihikaru&theme=react&border=61dafb&hide_border=true" alt="bayudwiyansatria" />
     </a>
-    <a href="https://github.com/ardihikaru/github-readme-stats" title="Go to Source">
+    <a href="https://github-readme-stats.vercel.app/api?username=ardihikaru&show_icons=true&theme=react&border_color=61dafb&hide_border=true"" title="Go to Source">
       <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=ardihikaru&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
     </a>
   </div>
