@@ -11,9 +11,7 @@
 <!-- Badged -->
 <p align="center">
 	<!-- Visitor -->
-	<a href="https://github.com/ardihikaru">
-		<img src="https://visitor-badge.laobi.icu/badge?page_id=ardihikaru.ardihikaru">
-	<a>
+	![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=ardihikaru.ardihikaru)
 	<!-- Twitter Stats -->
 	<a href="https://twitter.com/ardikucing">
 		<img 
